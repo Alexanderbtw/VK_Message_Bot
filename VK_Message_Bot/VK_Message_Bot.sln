@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VK_Message_Bot", "VK_Message_Bot.csproj", "{2A113B70-2DE7-4567-BCF7-9B75D6A855C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VK_Mes_ModelLib", "..\VK_Mes_ModelLib\VK_Mes_ModelLib.csproj", "{7BBF1489-5163-47DA-9CBF-FFA5A647AA89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A113B70-2DE7-4567-BCF7-9B75D6A855C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A113B70-2DE7-4567-BCF7-9B75D6A855C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A113B70-2DE7-4567-BCF7-9B75D6A855C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A113B70-2DE7-4567-BCF7-9B75D6A855C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BBF1489-5163-47DA-9CBF-FFA5A647AA89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BBF1489-5163-47DA-9CBF-FFA5A647AA89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BBF1489-5163-47DA-9CBF-FFA5A647AA89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BBF1489-5163-47DA-9CBF-FFA5A647AA89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B6AAC41-D718-4F10-B3B2-174E480B91F3}
+	EndGlobalSection
+EndGlobal
